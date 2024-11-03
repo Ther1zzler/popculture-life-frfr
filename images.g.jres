@@ -1,0 +1,22 @@
+{
+    "image1": {
+        "data": "hwQQABAAAAAAAAAAAAAAAAAADwAAAAAAAPAADwAAAAAAD/8AAAAAAPD/7g7uDgAA8O/+Dg4AAADw7+7u7o7/3/Dv7u7ujv/f8O/u7u6O/9/w7/4ODgAAAPD/7g7uDgAAAA8PAAAAAAAA8PAPAAAAAAAADwAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "travy scott"
+    },
+    "image2": {
+        "data": "hwQQABAAAAAAAAAAAAAAAAAAAFAFAAAAAABQVQUAAAAAUFVVAAAAAABVVQUAAAAAUOXuDu4ODwBQ5f7+///vAlDl7u7//+8CUOXu/v//7wJQ5f4O7g4PAABVVQUAAAAAAFVVVQUAAAAAUFVVBQAAAAAAAFBVAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "beyond"
+    },
+    "image3": {
+        "data": "hwQQABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA////AAAAAP////8PAAD/7v7//wAAAO/v/u4OAAAA7+4+MzPuPgDv7u4zM+4+AO/uPjMz7j4A7+/+7g4AAAD/7v7//w8AAPD/////DwAAAPD///8PAAAAAAD/DwAAAAAAAAAAAAAAAAAAAAAAAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "kim c"
+    },
+    "*": {
+        "mimeType": "image/x-mkcd-f4",
+        "dataEncoding": "base64",
+        "namespace": "myImages"
+    }
+}
